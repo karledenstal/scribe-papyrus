@@ -22,11 +22,13 @@ cargo install scribe-papyrus
 ## Quick Start
 
 1. **Initialize a new project**:
+
    ```bash
    scribe init
    ```
 
 2. **Edit `scribe.toml`** with your project paths:
+
    ```toml
    name = "My Awesome Mod"
    mods = "/path/to/mods/folder"
@@ -43,6 +45,7 @@ cargo install scribe-papyrus
    ```
 
 3. **Compile your scripts**:
+
    ```bash
    # Compile all scripts in sourceDir
    scribe .
@@ -113,8 +116,8 @@ scribe source/MyQuest.psc
 
 Licensed under either of:
 
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
-- MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or <http://www.apache.org/licenses/LICENSE-2.0>)
+- MIT license ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
 
 at your option.
 

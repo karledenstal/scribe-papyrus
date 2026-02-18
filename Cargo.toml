@@ -2,11 +2,11 @@
 name = "scribe-papyrus"
 version = "0.1.0"
 edition = "2024"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Karl Edenstål <github@karledenstal.dev>"]
 description = "A CLI wrapper for the Papyrus script compiler with embedded compiler binary"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/yourusername/scribe-papyrus"
-homepage = "https://github.com/yourusername/scribe-papyrus"
+repository = "https://github.com/karledenstal/scribe-papyrus"
+homepage = "https://github.com/karledenstal/scribe-papyrus"
 keywords = ["papyrus", "skyrim", "modding", "compiler", "scripting"]
 categories = ["command-line-utilities", "development-tools"]
 readme = "README.md"
