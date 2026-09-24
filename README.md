@@ -124,4 +124,4 @@ at your option.
 ## Credits
 
 - Papyrus compiler by [russo-2025](https://github.com/russo-2025)
-- Scribe wrapper tool by [Your Name]
+- Scribe wrapper tool by karledenstal
